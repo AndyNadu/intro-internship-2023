@@ -37,7 +37,7 @@ ScrollablePage {
 
             editable: true
             model: ListModel {
-                ListElement { text: qsTr("Banana") }
+                ListElement { text: qsTr("Andy") }
                 ListElement { text: qsTr("Apple") }
                 ListElement { text: qsTr("Coconut") }
             }
