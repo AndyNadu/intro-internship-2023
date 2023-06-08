@@ -59,5 +59,6 @@
         <file>icons/gallery/20x20@4/drawer.png</file>
         <file>icons/gallery/20x20@4/menu.png</file>
         <file>icons/gallery/index.theme</file>
+        <file>pages/TemperatureControlPage.qml</file>
     </qresource>
 </RCC>

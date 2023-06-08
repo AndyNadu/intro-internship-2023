@@ -140,6 +140,7 @@ ApplicationWindow {
             anchors.fill: parent
 
             model: ListModel {
+                ListElement { title: qsTr("TemperatureControl"); source: "qrc:/pages/TemperatureControlPage.qml" }
                 ListElement { title: qsTr("BusyIndicator"); source: "qrc:/pages/BusyIndicatorPage.qml" }
                 ListElement { title: qsTr("Button"); source: "qrc:/pages/ButtonPage.qml" }
                 ListElement { title: qsTr("CheckBox"); source: "qrc:/pages/CheckBoxPage.qml" }

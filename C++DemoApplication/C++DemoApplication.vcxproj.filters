@@ -40,8 +40,6 @@
     <CustomBuild Include="release\moc_predefs.h.cbt">
       <Filter>Generated Files</Filter>
     </CustomBuild>
-    
-    
   </ItemGroup>
   <ItemGroup>
     <None Include="pages\BusyIndicatorPage.qml">
@@ -222,6 +220,9 @@
       <Filter>Resource Files</Filter>
     </None>
     <None Include="doc\src\qtquickcontrols-gallery.qdoc">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="pages\TemperatureControlPage.qml">
       <Filter>Resource Files</Filter>
     </None>
   </ItemGroup>

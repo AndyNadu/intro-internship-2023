@@ -1,4 +1,6 @@
 ﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(517,5): warning MSB8028: The intermediate directory (debug\) contains files shared from another project (C++DemoApplication.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  Generate moc_predefs.h
   Rcc'ing qml.qrc...
+  main.cpp
   qrc_qml.cpp
-  C++DemoApplication.vcxproj -> C:\Users\andy\Desktop\Intro_QT\x64\Debug\C++DemoApplication.exe
+  C++DemoApplication.vcxproj -> C:\Users\andy\Desktop\Intro-Internship-Netrom2023\x64\Debug\C++DemoApplication.exe

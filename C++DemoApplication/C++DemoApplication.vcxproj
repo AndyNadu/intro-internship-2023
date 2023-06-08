@@ -226,6 +226,7 @@
     <None Include="pages\SwipeViewPage.qml" />
     <None Include="pages\SwitchPage.qml" />
     <None Include="pages\TabBarPage.qml" />
+    <None Include="pages\TemperatureControlPage.qml" />
     <None Include="pages\TextAreaPage.qml" />
     <None Include="pages\TextFieldPage.qml" />
     <None Include="+Material\ToolBar.qml" />
